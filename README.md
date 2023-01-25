@@ -5,4 +5,6 @@ Proteins Mediation Analysis in CHRIS
 - Variants association with the plasma proteins have been done!
 - There was a huge deviation for CHRIS proteomics subsamples in terms of the association of the SNPs with kidney function (eGFRw.log.Res) compared to GWAS effects magnitude -> Has to be fixed immediately. Mediation analysis has been ongoing with some sensitivity analysis of the results to find out the bug. Perhaps the difference between populations in terms of sample size is the main root of the deviation. Let's make sure!
 
-Dariush | 24-Jan-2023
+- So far, I checked teh density/scatter/violin plots of the varians' dosage groupped by the peptited individuals and not-peptited individuals. Let's check it again and find PI's opinion. 
+
+Dariush | 25-Jan-2023
