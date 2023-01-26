@@ -7,4 +7,7 @@ Proteins Mediation Analysis in CHRIS
 
 - So far, I checked teh density/scatter/violin plots of the varians' dosage groupped by the peptited individuals and not-peptited individuals. Let's check it again and find PI's opinion. 
 
-Dariush | 25-Jan-2023
+- In the end, we came to this conclusion that the effect differences between CHRIS 10K and subsamples with proteins have been rooted in sample size disparity.
+- Next, we go for next stage of the analysis and fairly/slightly relieve the multiple testing threshold.
+
+Dariush | 26-Jan-2023
